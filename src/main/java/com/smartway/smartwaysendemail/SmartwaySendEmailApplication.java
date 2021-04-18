@@ -27,7 +27,7 @@ public class SmartwaySendEmailApplication {
 
 		emailSenderService.sendEmailWithAttachment("suren.boyilla@gmail.com",
 				"This is my email body..",
-				"This is mu email subject..",
+				"This is my email subject..",
 				"/Users/Suren/Desktop/Syon.png");
 
 
